@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 [![Yunzhong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hou-yz)](https://github.com/anuraghazra/github-readme-stats)
 
